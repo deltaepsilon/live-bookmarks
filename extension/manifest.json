@@ -1,0 +1,14 @@
+{
+  "manifest_version": 1,
+  "name": "Scorch Bookmarks",
+  "version": "1.0",
+  "description": "For whipping bookmarks into shape across both Firefox and Chrome Edit",
+  "icons": {
+    "32": "icons/icon-32.png",
+    "42": "icons/icon-42.png",
+    "64": "icons/icon-64.png",
+    "96": "icons/icon-96.png",
+    "128": "icons/icon-128.png"
+  },
+  "background": ["index.js"]
+}
